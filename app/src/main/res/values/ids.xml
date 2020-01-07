@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tvEyeColor" type="id" />
+    <item name="tvTextBirth" type="id" />
+    <item name="tvTextHeight" type="id" />
+    <item name="tvTextEyeColor" type="id" />
+    <item name="tvTextName" type="id" />
+</resources>
